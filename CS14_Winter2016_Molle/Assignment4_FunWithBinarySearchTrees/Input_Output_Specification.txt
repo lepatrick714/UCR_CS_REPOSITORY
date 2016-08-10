@@ -1,0 +1,77 @@
+Command Line Specification: ./a.out input.txt 
+	- Call main() and a input file
+
+Input Specification: 
+	- In one line; input a series of integers for Tree A. Will not work with other data types
+	- In one line; input a series of integers for Tree B. Will not work with other data types
+Output Specification: 
+	- Will construct an Binary Search Tree (BST) of A and B.
+	- Will construct a common BST C using elements in A and B that are in common. 
+	- Will construct a common BST D using elements in A and B that are not in common. 
+	
+	- All printing will be one line for all BST as shown below; 
+		A: INPUT SERIES OF NUMBERS
+		B: INPUT SERIES OF NUMBERS 
+		C: ELEMENTS IN A AND B THAT ARE IN COMMON 
+		D: ELEMENTS IN A AND B THAT ARE NOT IN COMMON 
+	- Directly below that will be a side ways prettyprint() to illustrate the BST. 
+
+Example Input/Output
+
+input.txt 
+0 5 9 12 32 34 56 346 999 1014 
+12 19 43 55 67 77 81 85 667 999 
+
+
+Command Line Call
+./a.out input.txt
+
+
+input.out
+TEST CASE: 1
+0 5 9 12 32 34 56 346 999 1014 
+12 19 43 55 67 77 81 85 667 999 
+12 999 
+0 5 9 19 32 34 43 55 56 67 77 81 85 346 667 1014 
+
+   / 0
+< 5
+  |  / 9
+  | |  \ 12
+  | |    \ 32
+   \ 34
+    |  / 56
+     \ 346
+       \ 999
+         \ 1014
+
+       / 12
+     / 19
+   / 43
+  |  \ 55
+< 67
+  |    / 77
+  |  / 81
+   \ 85
+    |  / 667
+     \ 999
+
+< 12
+   \ 999
+
+   / 0
+< 5
+  |  / 9
+  | | |  / 19
+  | |  \ 32
+   \ 34
+    |    / 43
+    |   |  \ 55
+    |  / 56
+    | |  \ 67
+    | |   |    / 77
+    | |   |  / 81
+    | |    \ 85
+     \ 346
+      |  / 667
+       \ 1014

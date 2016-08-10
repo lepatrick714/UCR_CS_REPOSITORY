@@ -1,0 +1,229 @@
+89 139
+Alhambra
+Anaheim_Canyon
+Arleta
+Avocado_Hts
+Beaumont
+Bellflower
+Buena_Park
+Burbank
+Carson
+Chino
+Colton
+Commerce
+Compton
+Corona
+Costa_Mesa
+Devore
+Diamond_Bar
+Downey
+Duarte
+EastLA
+East_LA_Xchange
+East_Orange
+El_Monte
+El_Segundo
+El_Toro
+Encino
+Four_Level
+Fullerton
+Gardena
+Glendale
+Glendora
+Granada_Hills
+Hawthorne
+Irvine
+Irvine_Meadows
+Irwindale
+La_Canada
+Ladera_Hts
+Laguna
+Lancaster
+Lincoln_Heights
+Long_Beach
+Los_Alamitos
+Marina_Del_Rey
+Mira_Loma
+Mission_Viejo
+Montecito
+Moorpark
+Moreno_Valley
+Murrieta
+Newhall
+Newport_Beach
+Norwalk
+Ontario
+Orange
+Pacoima
+Pasadena
+Pico-Union
+Placentia
+Pomona
+Prado
+Rancho_Cucamonga
+Rancho_Santa_Margarita
+Redlands
+Riverside
+San_Bernardino
+San_Clemente
+San_Fernando
+San_Pedro
+Santa_Anna
+Santa_Clarita
+Santa_Fe_Springs
+Santa_Monica
+Signal_Hill
+Silver_Lake
+Studio_City
+Sun_Valley
+Sylmar
+Temecula
+Thousand_Oaks
+Toll_Plaza
+Tustin
+Van_Nuys
+Ventura
+Victorville
+Watts
+WestLA
+Westminster
+Yorba_Linda
+GoldenState_5-1 7 Santa_Clarita Newhall
+GoldenState_5-2 2 Newhall Sylmar
+GoldenState_5-3 2 Sylmar San_Fernando
+GoldenState_5-4 2 San_Fernando Arleta
+GoldenState_5-5 2 Arleta Sun_Valley
+GoldenState_5-6 11 Sun_Valley Burbank
+GoldenState_5-7 5 Burbank Silver_Lake
+GoldenState_5-8 2 Silver_Lake Montecito
+GoldenState_5-9 2 Montecito Lincoln_Heights
+Downtown_LA_Tangle 2 Lincoln_Heights East_LA_Xchange
+SantaAnna_5-1 4 East_LA_Xchange Commerce
+SantaAnna_5-2 7 Commerce Santa_Fe_Springs
+SantaAnna_5-3 18 Santa_Fe_Springs Buena_Park
+SantaAnna_5-4 8 Buena_Park Orange
+SantaAnna_5-5 12 Orange Santa_Anna
+SantaAnna_5-6 2 Santa_Anna Tustin
+SantaAnna_5-7 2 Tustin Irvine
+SantaAnna_5-8 4 Irvine El_Toro
+SanDiego_405-1 1.5 Sylmar Granada_Hills
+SanDiego_405-2 7.5 Granada_Hills Encino
+SanDiego_405-3 10 Encino WestLA
+SanDiego_405-4 3 WestLA Ladera_Hts
+Marina_90 4 Ladera_Hts Marina_Del_Rey
+SanDiego_405-5 5 Ladera_Hts Hawthorne
+SanDiego_405-6 8 Hawthorne Carson
+SanDiego_405-7 5.5 Carson Signal_Hill
+SanDiego_405-8 8 Signal_Hill Los_Alamitos
+SanDiego_405-9 2 Los_Alamitos Westminster
+SanDiego_405-10 10 Westminster Costa_Mesa
+SanDiego_405-11 8 Costa_Mesa Irvine_Meadows
+SanDiego_405-12 1.5 Irvine_Meadows El_Toro
+SanDiego_5-1 10 El_Toro Mission_Viejo
+SanDiego_5-2 11 Mission_Viejo San_Clemente
+Corona_Del_Mar_73-1 10 Costa_Mesa Laguna
+Corona_Del_Mar_73-2 6.75 Laguna Mission_Viejo
+Antelope_14 43 Newhall Lancaster
+Glendale_2-1 5 La_Canada Glendale
+Glendale_2-2 4 Glendale Silver_Lake
+Moorpark_23 6 Thousand_Oaks Moorpark
+Reagan_118-1 24 Moorpark Granada_Hills
+Reagan_118-2 2 Granada_Hills Arleta
+Reagan_118-3 2 Arleta Pacoima
+Ventura_101-1 25 Ventura Thousand_Oaks
+Ventura_101-2 24 Thousand_Oaks Van_Nuys
+Ventura_101-3 6 Van_Nuys Studio_City
+Ventura_134-1 5 Studio_City Burbank
+Ventura_134-2 4 Burbank Glendale
+Ventura_134-3 4.5 Glendale Pasadena
+Hollywood_170 9 Sun_Valley Studio_City
+Hollywood_101-1 10 Studio_City Four_Level
+Hollywood_101-2 3 Four_Level Lincoln_Heights
+Foothill_210-1 6 Sylmar Pacoima
+Foothill_210-2 13 Pacoima La_Canada
+Foothill_210-3 5 La_Canada Pasadena
+Foothill_210-4 11.4 Pasadena Irwindale
+Foothill_210-5 8.5 Irwindale Glendora
+Foothill_210-6 18 Glendora Rancho_Cucamonga
+Foothill_210-7 10.5 Rancho_Cucamonga San_Bernardino
+Foothill_210-8 10.3 San_Bernardino Redlands
+Mojave_15 27 Victorville Devore
+Ontario_15-1 9 Devore Rancho_Cucamonga
+Ontario_15-2 5.5 Rancho_Cucamonga Ontario
+Ontario_15-3 3.2 Ontario Mira_Loma
+Ontario_15-4 10 Ontario Corona
+Temecula_15-1 10 Corona Murrieta
+Temecula_15-2 22 Murrieta Temecula
+Barstow_215-1 9 Devore San_Bernardino
+Barstow_215-2 6 San_Bernardino Colton
+Riverside_215 6 Colton Riverside
+Riverside_91-1 14.2 Riverside Corona
+Riverside_91-2 5.3 Corona Prado
+Riverside_91-3 5 Prado Anaheim_Canyon
+Riverside_91-4 6.6 Anaheim_Canyon Yorba_Linda
+Riverside_91-5 3 Yorba_Linda Placentia
+Riverside_91-6 2.6 Placentia Fullerton
+Riverside_91-7 6 Fullerton Bellflower
+Artesia_91 5.4 Bellflower Compton
+Gardena_91 5.3 Compton Gardena
+GardenGrove_22-1 10.5 Westminster Orange
+GardenGrove_22-2 2.7 Orange East_Orange
+SanBernardino_10-1 15.6 Beaumont Redlands
+SanBernardino_10-2 5.3 Redlands Colton
+SanBernardino_10-3 14.3 Colton Ontario
+SanBernardino_10-4 15.5 Ontario Pomona
+SanBernardino_10-5 11.5 Pomona El_Monte
+SanBernardino_10-6 19.7 El_Monte Alhambra
+SanBernardino_10-7 1.5 Alhambra Lincoln_Heights
+SantaMonica_10-1 5 Santa_Monica WestLA
+SantaMonica_10-2 15.4 WestLA Pico-Union
+SantaMonica_10-3 9.7 Pico-Union East_LA_Xchange
+Pomona_60-1 3.3 East_LA_Xchange EastLA
+Pomona_60-2 8.4 EastLA Avocado_Hts
+Pomona_60-3 11.8 Avocado_Hts Diamond_Bar
+Pomona_60-4 5.7 Diamond_Bar Chino
+Pomona_60-5 10.1 Chino Mira_Loma
+Pomona_60-6 11.6 Mira_Loma Riverside
+MoVal_60-1 4.5 Riverside Moreno_Valley
+MoVal_60-2 18.3 Moreno_Valley Beaumont
+Escondido_215 28.8 Moreno_Valley Murrieta
+ChinoVal_71-1 3.3 Pomona Chino
+ChinoVal_71-2 11.1 Chino Prado
+Orange_57-1 4.6 Glendora Pomona
+Orange_57-2 2.2 Pomona Diamond_Bar
+Orange_57-3 9.1 Diamond_Bar Placentia
+Orange_57-4 4.8 Placentia Orange
+CostaMesa_55-1 4.9 Yorba_Linda East_Orange
+CostaMesa_55-2 3 East_Orange Santa_Anna
+CostaMesa_55-3 3.9 Santa_Anna Costa_Mesa
+CostaMesa_55-4 6 Costa_Mesa Newport_Beach
+EasternToll_241-1 8 Anaheim_Canyon Toll_Plaza
+FoothillToll_241-2 17 Toll_Plaza Rancho_Santa_Margarita
+EasternToll_261 4 Toll_Plaza Tustin
+EasternToll_133 5 Toll_Plaza Irvine
+Laguna_133-1 6 Irvine Irvine_Meadows
+Laguna_133-2 1.2 Irvine_Meadows Laguna
+SanGabriel_605-1 5.6 Duarte El_Monte
+SanGabriel_605-2 3.8 El_Monte Avocado_Hts
+SanGabriel_605-3 7.8 Avocado_Hts Santa_Fe_Springs
+SanGabriel_605-4 2 Santa_Fe_Springs Norwalk
+SanGabriel_605-5 2.6 Norwalk Bellflower
+SanGabriel_605-6 5.2 Bellflower Westminster
+LongBeach_710-1 1.8 Alhambra EastLA
+LongBeach_710-2 1.2 EastLA Commerce
+LongBeach_710-3 7.6 Commerce Downey
+LongBeach_710-4 2.7 Downey Compton
+LongBeach_710-5 3.5 Compton Signal_Hill
+LongBeach_710-6 5 Signal_Hill Long_Beach
+SeaSide_47 3.5 San_Pedro Long_Beach
+Harbor_110-1 8 San_Pedro Carson
+Harbor_110-2 1.9 Carson Gardena
+Harbor_110-3 4 Gardena Watts
+Harbor_110-4 7.4 Watts Pico-Union
+Harbor_110-5 12 Pico-Union Four_Level
+Arroyo_110-1 2.3 Four_Level Montecito
+Arroyo_110-2 8 Montecito Pasadena
+Century-105-1 4.3 Norwalk Downey
+Century-105-2 6.2 Downey Watts
+Century-105-3 5.2 Watts Hawthorne
+Century-105-4 2.1 Hawthorne El_Segundo
